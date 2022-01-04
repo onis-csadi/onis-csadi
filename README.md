@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @OnisCsadi
-- 👀 Software engineer at csadio.com
-- 🌱 I design and develop software for business and finance. 
-- 💞️ My areas of expertise are web, mobile, desktop and cloud.
-- 📫 You can reach at onis.csadi@gmail.com
+-  A technology consultant specializing in web, mobile, cloud, blockchain and metaverse technologies.
+-  You can reach me at onis.csadi@gmail.com
 
 <!---
 OnisCsadi/OnisCsadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
