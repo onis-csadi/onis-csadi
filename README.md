@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OnisCsadi
--  A technology consultant specializing in web, mobile, cloud, blockchain and metaverse technologies.
--  You can reach me at onis.csadi@gmail.com
+-  A software engineer working with web, mobile, cloud and blockchain technologies.
 
 <!---
 OnisCsadi/OnisCsadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
