@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Onis Csadi
--  A software engineer working with web, mobile, cloud, blockchain and metaverse technologies.
+-  A software engineer working with web, mobile, cloud and blockchain technologies.
 
 <!---
 OnisCsadi/OnisCsadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
