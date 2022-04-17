@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Onis Csadi
+- 👋 Hi, I’m Onis
 -  A software engineer working with web, mobile, cloud and blockchain technologies.
 
 <!---
