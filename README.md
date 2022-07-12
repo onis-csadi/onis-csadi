@@ -1,5 +1,4 @@
-- Onis Csadi
-- Software engineer working with web, mobile, cloud and blockchain technologies.
+Full stack software developer.
 
 <!---
 OnisCsadi/OnisCsadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
